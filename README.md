@@ -4,9 +4,13 @@ An Android quiz application built in Java that tests knowledge of core Computer 
 
 ## Screenshots
 
-> ![Quiz App Screenshot](Screenshot_Questions.jpg)
-> ![Quiz App Screenshot](Screenshot_Correct_Answer.jpg)
-> ![Quiz App Screenshot](Screenshot_Quiz_Complete.jpg)
+<p align="center">
+  <img src="Screenshot_Questions.jpg" width="220"/>
+  &nbsp;&nbsp;
+  <img src="sScreenshot_Correct_Answer.jpg" width="220"/>
+  &nbsp;&nbsp;
+  <img src="Screenshot_Quiz_Complete.jpg" width="220"/>
+</p>
 ## Features
 
 - 10 multiple-choice CS questions
