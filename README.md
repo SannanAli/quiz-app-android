@@ -7,7 +7,7 @@ An Android quiz application built in Java that tests knowledge of core Computer 
 <p align="center">
   <img src="Screenshot_Questions.jpg" width="220"/>
   &nbsp;&nbsp;
-  <img src="sScreenshot_Correct_Answer.jpg" width="220"/>
+  <img src="Screenshot_Correct_Answer.jpg" width="220"/>
   &nbsp;&nbsp;
   <img src="Screenshot_Quiz_Complete.jpg" width="220"/>
 </p>
