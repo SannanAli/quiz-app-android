@@ -4,8 +4,9 @@ An Android quiz application built in Java that tests knowledge of core Computer 
 
 ## Screenshots
 
-> Add screenshots of your app here after building it in Android Studio.
-
+> ![Quiz App Screenshot](Screenshot_Questions.jpg)
+> ![Quiz App Screenshot](Screenshot_Correct_Answer.jpg)
+> ![Quiz App Screenshot](Screenshot_Quiz_Complete.jpg)
 ## Features
 
 - 10 multiple-choice CS questions
